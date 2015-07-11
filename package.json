@@ -1,0 +1,24 @@
+{
+  "name": "capacitacion",
+  "version": "0.0.1",
+  "description": "capacitaciones en desarrollo web",
+  "main": "Gruntfile.js",
+  "author": "Luis Gago Casas",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-browser-sync": "*",
+    "grunt-contrib-jade": "*",
+    "grunt-contrib-stylus": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-jade-php": "*",
+    "grunt-notify": "*",
+    "grunt-php": "*",
+    "load-grunt-tasks": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitlab.com:luisgagocasas/luisgagocasas.git"
+  }
+}
